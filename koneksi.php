@@ -5,7 +5,7 @@
 $server = "localhost";
 $user = "root";
 $password = "";
-$nama_database = "";
+$nama_database = "latihan_api";
 
 // inisialisasi mysql
 // (DISI)
